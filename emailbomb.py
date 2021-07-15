@@ -15,13 +15,13 @@ print '                                                                    '
 print '                                                                    '
 print '            #################################################       '
 print '            #                                               #       '
-print '            #        Email Bomber ( Spamming Tool )         #       '
+print '            #        Power full Email Bomber                #       '
+print '            #            with Spoofer                       #       '
+print '            #                 BY                            #       '
 print '            #                                               #       '
-print '            #                  Version 2.0                  #       '
+print '            #           A.Boss The Hacker                   #       '
 print '            #                                               #       '
-print '            #           Modified by : Mohin Paramasivam     #       '
-print '            #                                               #       '
-print '            #       Only for Educational Purposes !!        #       '
+print '            #      @ NOthing is secure                      #       '
 print '            #                                               #       '
 print '            #################################################       '
 
@@ -31,7 +31,7 @@ print '                                                                   '
 print '                                           '
 
 print '    '
-email = raw_input('Attacker Gmail Address : ')
+email = raw_input(' Gmail Address of attacker : ')
 print '             '
 user = raw_input('Anonymous name : ')
 print '      '
@@ -44,7 +44,7 @@ to = raw_input('\nTo: ')
 
 print '    '
 
-body = raw_input('Message: ')
+body = raw_input('Message(Text): ')
 
 print '    '
 
